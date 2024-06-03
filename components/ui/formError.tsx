@@ -13,5 +13,6 @@ export const FormError = ({ message }: FormErrorProps) => {
         <p>{message}</p>
       </div>
     </div>
-  );
+  ); 
 };
+
